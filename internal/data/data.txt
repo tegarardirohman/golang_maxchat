@@ -1,0 +1,7 @@
+[
+    {"code": "rv1", "name": "Rover #1", "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua", "model": "Car", "tech": ["AI", "Car"], "status": "progress"},
+    {"code": "tfx", "name": "Transformer X", "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua", "model": "Transformation", "tech": ["Car", "Robot"], "status": "active"},
+    {"code": "px1", "name": "Pacifista 1", "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua", "model": "Humanoid", "tech": ["AI", "Robot"], "status": "active"},
+    {"code": "ax8", "name": "Android #8", "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua", "model": "Humanoid", "tech": ["Cyborg"], "status": "active"},
+    {"code": "ax7", "name": "Android #7", "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua", "model": "Humanoid", "tech": ["Cyborg"], "status": "inactive"}
+]
